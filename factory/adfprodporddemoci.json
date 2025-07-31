@@ -1,0 +1,9 @@
+{
+	"name": "adfprodporddemoci",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2b15f593-70da-4fa0-b603-5bbfa91ac33e",
+		"tenantId": "50235424-9b7a-45f5-a0b8-87b31ae4fc43"
+	}
+}
