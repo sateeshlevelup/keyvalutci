@@ -1,0 +1,9 @@
+{
+	"name": "adfcicddevfornewdmo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6f5cd7eb-a99c-43d3-b3af-40c27ebcb1cf",
+		"tenantId": "50235424-9b7a-45f5-a0b8-87b31ae4fc43"
+	}
+}
